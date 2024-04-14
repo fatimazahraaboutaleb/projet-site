@@ -416,6 +416,10 @@ header{
     padding-top: 40px;
     padding-bottom: 30px;
 }
+#contact .info a{
+    color: #ffffffde;
+}
+
 
 #contact img{
     width: 20px;
